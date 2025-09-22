@@ -18,8 +18,8 @@ Keeps running until user selects Exit
 
 # Tools Used
 
-Java (JDK 8 or above)
+Java (JDK 8 )
 
-VS Code or IntelliJ IDEA CE
+VS Code 
 
 Command Prompt / Terminal
